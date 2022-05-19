@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>блог | Academic</title>
+    <link>https://example.com/category/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <atom:link href="https://example.com/category/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>блог</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 May 2022 17:24:58 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>блог</title>
+      <link>https://example.com/category/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+    </image>
+    
+    <item>
+      <title>Блог 19.05</title>
+      <link>https://example.com/post/post5/</link>
+      <pubDate>Thu, 19 May 2022 17:24:58 +0300</pubDate>
+      <guid>https://example.com/post/post5/</guid>
+      <description>&lt;p&gt;На прошлой неделе я съезила в Санкт-Петербург, побывала в Петергофе, Выборге и Кронштадте. Сделала 2 лабораторные по операционным системам. Увидела развод мостов с катера. Побывала в ресторанах грузинской и японской кухни. Сделала уборку и приготовила самые вкусные котлеты для Маши Зайцевой. Не забыла потренироваться! Кушала самые невкусные шпинатные венские вафли .&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Блог 12.05</title>
+      <link>https://example.com/post/post3/</link>
+      <pubDate>Thu, 19 May 2022 15:43:28 +0300</pubDate>
+      <guid>https://example.com/post/post3/</guid>
+      <description>&lt;p&gt;На прошлой неделе я выполнила две лабораторные работы по опреационным системам.И съездила домой.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
